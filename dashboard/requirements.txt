@@ -1,3 +1,4 @@
+Python==3.9.13
 Babel==2.18.0
 matplotlib==3.10.8
 pandas==1.5.3
